@@ -54,6 +54,7 @@ export default function App() {
           // options={({ route, navigation }) => {
           //   const catId = route.params.categoryId;
           //   return {
+
           //     title: catId
           //   }
           // }} 
